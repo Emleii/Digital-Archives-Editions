@@ -9,21 +9,25 @@
             <title>Unnamed Starkweather Drawing 12</title>
          </titleStmt>
          <publicationStmt>
-            <p>Free Use</p>
+            <p>The archival materials within this document were used with the permission of the materials’ owner, the University of Nebraska–Lincoln Libraries Archives &#38; Special Collections. The materials are not for distribution and/or reproduction.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Scan taken from materials at the Univeristy of Nebraska, Lincoln Special Archives</p>
+            <bibl></bibl>
+		<msDesc>
+	  	    <msIdentifier>
+			<repository>University of Nebraska–Lincoln Libraries Archives &#38; Special Collections</repository>
+			<collection>James M. Reinhardt, Papers</collection>
+			<idno>Archives RG 12-22-10</idno>
+	    	    </msIdentifier>
+	        </msDesc>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-
-        
-
-
-
-
+	<figure>
+            <figDesc>Colored pencil drawing of a boy looking off to the left side. He has red hair and is wearing a green shirt, probably a self-portrait of Starkweather as a kid. He's standing in front of a board with drawings done by kids pinned to it, something that is often found in elementary schools. The right corner of the drawing is signed by Charles Starkweather. Back of the drawing is blank.</figDesc>
+        </figure>
       </body>
   </text>
 </TEI>
