@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unnamed Starkweather Drawing 16</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Free Use</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Scan taken from materials at the Univeristy of Nebraska, Lincoln Special Archives</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <figure>
+            <figDesc>Pencil drawing of a man and a woman in a car, likely a self-portrait of Stakweather and Fugate. The figures have little detail or depth and are more of an outline. The eyes are only implied by eyebrows. The car also is not fully drawn and the front is open-faced so that you can see the full length of the figures. The man sits at the wheel of the car, his foot on what seems to be on the gas pedal. The woman sits with one arm across the back of the seat and the other holding a rifle across her lap. Back of the drawing is blank.</figDesc>
+         </figure>
+         <p></p>
+      </body>
+  </text>
+</TEI>

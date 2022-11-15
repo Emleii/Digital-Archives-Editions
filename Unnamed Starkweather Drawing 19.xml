@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unnamed Starkweather Drawing 19</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Free Use</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Scan taken from materials at the University of Nebraska, Lincoln Special Archives</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <figure>
+            <figDesc>Pencil drawing of a man, crouching with one knee on the ground and a rifle in his hand. The rifle is pointed upwards, but is not in position to shoot. He wears glasses and is probably a self-portrait of Starkweather. Back of the drawing is blank.</figDesc>   
+         </figure>
+         <p></p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Why Did An Artistic Youth of 19 Go On
+A Killing Rampage That Took 11 Lives?</title>
+            <author>J. M. Reinhardt</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Washington Star, Jun 8th, 1958</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <front>
+        <p rend="italic">EDITOR’S NOTE &#8212; What drove convicted killer Charles Starkweather to one of the bloodiest forays in recent criminal history? A widely known author and lecturer on criminal behavior, Dr. James Melvin Reinhardt, professor of criminology at the University of Nebraska, sums up the case after interviewing the youth, his family, friends and teachers, and after watching him in court.</p>
+      </front>
+      <body>
+        <div type="section">
+         <p rend="bold">By DR. J. M. REINHARDT</p>
+         <p>LINCOLN. Nebr., C/P)&#8212;Charles Starkweather, the 19-year-old killer, has reached the end of the line.</p>
+         <p>Of 11 slayings he has admitted, he was convicted of one. But he awaits with indifference the day of his execution.</p>
+        <p>His cell will open to the electric chamber. It is well lighted and ventilated. Prom a barred window he can see an arch of sky above the prison yard. He can watch the sun go down, but he cannot see it rise.</p>
+        <p>Charles Starkweather terrified a city. He put a stop to laughter, made people fearful to step out of doors. He fixed his name in criminal history.</p>
+        <p>What made him kill?</p>
+        <p>I watched Starkweather during his trial. I talked with family and friends. I had a private, unmonitored, three-hour conversation with him in prison. Out of this, some of his life’s values became evident, some conclusions could be drawn.</p>
+        <p>The answer to why he killed must be found inside Charles Starkweather, in his way of looking at life, in the values he gave it.</p>
+        <p>He is the third of seven children&#8212;six boys and a girl. He grew up in a law-abiding family, knew good public schools and libraries.</p>
+        </div>
+   
+        <div type="section">
+        <head>A Normal Childhood</head>
+        <p>His earlier years were not markedly different on the surface from that of thousands of young people who have grown into respectable adulthood. He shared the companionship of the family dog, often went hunting with his older brothers and his father, spent week ends with August Meyer of Bennet, a family friend whom he later murdered.</p>
+        <p>For a number of years he attended church and Sunday school regularly, but lost interest before he finished the eighth grade. He said "I just got tired of it.”</p>
+        <p>Charles Starkweather’s school intelligence rating was dull normal. Both the psychologists for the defense and the prosecution put his intelligence in the normal range.</p>
+        <p>The hideous eruption did not break suddenly out of a tranquil past. The provoking incidents came quickly, but the destructive forces were already there, waiting.</p>
+        <p>They had been quietly building up for years. Charles himself was not aware of what was really going on inside of him.</p>
+        <p>The exterior bristled and withdrew. Nobody gave it a thought.</p>
+        <p>All the time the inside of him was watching fences go up that he couldn't cross, gates closed that he couldn’t open.</p>
+        <p>In his job at a printing plant, he said, people were “looking down on me.”</p>
+        <p>I said, “Why didn’t you stay with your brother? He has made a living and stayed out of trouble.”</p>
+        <p>He said: “You think I wanted to be a garbage hauler ... who gives a damn for a garbage hauler?”</p>
+        <p>For Charles, life’s purposes had no scope. Egoistic and biologic satisfactions, that was about all. A girl to use, a gun to shoot, and power that could be tasted.</p>
+        <p>Whatever the provocative incidents that set Charles Starkweather off on the killing rampage. the inhibited, remorseless, power-hungry ego was already there.</p>
+        <p>It had’ been nursed in a multitude of grotesque and cruel fantasies. It was unfolded in his language and manner in the interview.</p>
+        <p>When I asked him for an explanation of his killings, he could say only: “The old man came at me ... I had to kill him ... the old lady was coming at me with a knife ... she wanted to break up me and Caril ... the little girl was crying ...”</p>
+        <p>Killing not only served his immediate ends, it symbolized the destruction of opposing forces.</p>
+        <p>Behind his hunger for the feel of power was a cowering sense of failure. The gun could do things in a hurry.</p>
+        <p>He had thrilled to its performances on the television screen. He had watched himself handle it in the mirror.</p>
+        <p>As far back as Charles could remember he wanted to be important.</p>
+        <p>He had acquired numerous personal oddities and mannerisms to shield his sense of inadequacy: a withdrawn look, tricks for maintaining social distance—like refusing to answer, appearing not to hear, keeping silent.</p>
+        <p>“Talk gets you nowhere," he said.</p>
+    </div>
+
+    <div type="section">
+        <head>Realistic Day Dreams</head>
+        <p>Beneath these exterior safety devices were fantasy scenes of cruelty and personal mastery. These images had become more impelling and complex with time. They seemed so vividly realistic at times that he came up with</p>
+        <p>He did not always know whether he was asleep or awake.</p>
+        <p>For years it did not occur to him that one day he would break over these fantasies to become a real murderer. Even after the first murder which he admittedly committed for money “so that he and Caril could run away,” he confessed a return to the murderous images.</p>
+        <p>Except for the murder of the filling station attendant for money, the killings were planless. His victims simply “got in the way.”</p>
+        <p>He told me he “could never stop pulling the trigger” until the last cartridge was spent. It was humiliating to “miss the head.”</p>
+        <p>The boy Robert Jensen, for whose murder Charles was convicted. was shot six times in and around the right ear.</p>
+        <p>The gun was a poor defeated ego’s short road to power.</p>
+        <p>Power over others: that is what he Wanted. This was the ego’s answer to real or imaginary wrongs.</p>
+        <p>A former schoolmate had felt sorry for him at school, "he seemed so lonely.” She invited him to her house, introduced him to her parents, tried to help him with his math. Within the week, Charles was saying she was “my girl”and the other boys “had better stay away from her.” The girl had to drop him cold.</p>
+        <p>As we talked at the prison. Charles said he loved Caril and had to hold on to her at all costs. “Caril and I got along fine together ... she does everything that I want,” he said.</p>
+        <p>Caril Ann Fugate, 14, accompanied Starkweather on his killing rampage. She also has been charged with murder and awaits trial.</p>
+        <p>Charles Starkweather was powerless to see the world as others see it, powerless to measure himself by the standards others use.</p>
+        <p>He was upset because he was forbidden to wear his cowboy boots to the trial. Day after day he showed up with his flaming red hair trickily groomed. At his preliminary hearing he was more interested in his tie than in the charge against him.</p>
+        <p>In the courtroom, he was unmoved by the tears of the slain boy’s father. His eyes followed the faces of the jury with intriguing curiosity as they looked at the picture of the nude, mutilated body of one of his victims. His muscles tightened with anger when his counsel sought to establish his mental incompetence.</p>
+        <p>He smiled occasionally when he spoke to his mother.</p>
+        <p>He appeared always aware of his own importance in the courtroom. After all Charles Starkweather was what it was all about.</p>
+        <p>When I told him that the insanity plea was perhaps his only and last dim chance, he replied: “I would rather burn.”</p>
+        <p>He resisted the determination of his attorneys to use the insanity plea to the last. His ego could find nothing hard or cold or nerve testing about the cruelties of an insane man.</p>
+        <p>He had shot his way into the annals of crime. For him this was not something to be bartered away for “the rest of my life in a stinkin’ asylum.”</p>
+        <p>It is difficult to find where society failed in this case.</p>
+        <p>His flaming red hair, arched legs and short stature invited nicknames like “BowLegs,” “Pint.” “Firefly,” “Archie.” One student said he looked like he was born riding a barrel.</p>
+        <p>For a time in school he had a lisp in his speech that apparently had an inhibiting effect 'upon his behavior.</p>
+        <p>Many another boy has overcome far more serious handicaps.</p>
+        <p>Charles’ interest in school was sporadic and unsustained. He did well in some subjects, poorly in others.</p>
+     </div>
+
+     <div type="section">
+        <head>Had Artistic Talent</head>
+        <p>A teacher who knew him well said that he had an artistic turn of mind and could have become an artist if that interest could have been cultivated. He liked to make things with his hands.</p>
+        <p>On Christmas and other special occasions, he spent endless hours helping the teachers make flowers and decorations.</p>
+        <p>His only sister LaVeta was 16 when her brother set out with his 14-year-old girl friend to shoot his way to “glory.” LaVeta has wistful eyes and a winsome face.</p>
+        <p>LaVeta, he said, “is my special sister. I Wish I could have painted her face just like it is.”</p>
+        <p>It was the only face that could hold his attention long enough to finish the picture, although he did experiment with other subjects &#8212; wood scenes and animals.</p>
+        <p>His father reports: “He would be sitting painting a picture as if unconscious of everything around him, then suddenly he would look up. flip his pencil at somebody and walk out.”</p>
+        <p>His father is a little taller, a little heavier and a little better looking than the average middle-aged American male. He is a carpenter by trade and has had a vacillating work record for the past 12 years.</p>
+        <p>He has been visited recurringly with a mild arthritic ailment since 1946. His manner is un- conventional, demonstrative and sometimes shocking.</p>
+        <p>After his condemned son was led from the courtroom for the last time and while the mother wept alone, he said: “I’d like to go out and have a steak dinner.”</p>
+        <p>Yet in his case this is not the mark of a man without feeling. It is an unerring sign that tension has softened. He never exhibited to me any evidence of cold indifference.</p>
+        <p>In his own words: “I have spent sleepless nights ... wondering ... wishing for an answer ... thinking about the people Charles has killed...."</p>
+    </div>
+
+    <div type="section">
+        <head>His Mother's Character</head>
+        <p>Charles Starkweather's mother is pretty. She is small. Her face looks tired and sad but no older than her years.</p>
+        <p>One neighbor said, “She works all the time. When not working away from home, she is ironing, sewing, washing or something."</p>
+        <p>From a teacher: “The parents have always co-operated with the school. They almost never miss a school function or a parent-teacher meeting.”</p>
+        <p>Another teacher: "They are poor, and don't have as good clothes as some children, but they are always clean."</p>
+        <p>None of the teachers thought that Charles' brothers or his sister had been a disciplinary problem in school. One said: "They are better than the average."</p>
+        <p>A neighbor told me that the Starkweather children “are very nice and considerate. They never run through my house and never come in without being invited even if the door is open."</p>
+        <p>Charles’ two older brothers are respectable, self-supporting law-abiding citizens. The Starkweather house is small and old and run down, out of place in the center of an attractive middle class neighborhood where it sits.</p>
+        <p>Such is the family and the home of Charles Starkweather.</p>
+        <p>Charles Starkweather had some laudable interests. Under the sustained stimulus of appropriate social rewards, these might have been turned to constructive ends.</p>
+        <p>But he turned to guns.</p>
+        <p>His only plaint after the sentence was that his attorneys had “tried me for all those murders instead of the one I was charged with.”</p>
+        <p>He said that he thought he should have a new trial, but “I would be glad to go to the chair tomorrow if I could have Caril on my lap."</p>
+    </div>
+      </body>
+  </text>
+</TEI>

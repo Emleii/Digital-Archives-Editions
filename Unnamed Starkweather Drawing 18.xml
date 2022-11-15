@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unnamed Starkweather Drawing 18</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Free Use</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Scan taken from materials at the University of Nebraska, Lincoln Special Archives</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <figure>
+            <figDesc>Pencil drawing of two disembodied heads: one woman and one man. The head of the woman is slightly above the head of the man and is smaller. She looks to her left. She looks as if she's wearing lipstick and has her hair curled. She's also wearing sunglasses. The man has his head bent down to his left. There are furrows on his forehead, he's wearing glasses, and his eyes are closed. Back of the drawing is blank.</figDesc>
+         </figure>
+         <p></p>
+      </body>
+  </text>
+</TEI>

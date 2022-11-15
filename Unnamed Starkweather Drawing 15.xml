@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unnamed Starkweather Drawing 14</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Free Use</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Scan taken from materials at the Univeristy of Nebraska, Lincoln Special Archives</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <figure>
+            <figDesc>Colored pencil drawing of a man leaning against the car. The man is probably Starkweather himself. He's smoking a cigarette and has Starkweather's red hair and glasses, also sporting the James dean look. The car is green with a red interior and there's a blue sky behind them. On the bottom right corner is Charles Starkweather's signature in red pen. The back of the drawing is blank. 
+</figDesc>
+          </figure>
+         <p></p>
+      </body>
+  </text>
+</TEI>
