@@ -9,10 +9,17 @@
             <title>Unnamed Starkweather Drawing 17</title>
          </titleStmt>
          <publicationStmt>
-            <p>Free Use</p>
+            <p>The archival materials within this document were used with the permission of the materials’ owner, the University of Nebraska–Lincoln Libraries Archives &#38; Special Collections. The materials are not for distribution and/or reproduction.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Scan taken from materials at the Univeristy of Nebraska, Lincoln Special Archives</p>
+            <bibl></bibl>
+		<msDesc>
+	  	    <msIdentifier>
+			<repository>University of Nebraska–Lincoln Libraries Archives &#38; Special Collections</repository>
+			<collection>James M. Reinhardt, Papers</collection>
+			<idno>Archives RG 12-22-10</idno>
+	    	    </msIdentifier>
+	        </msDesc>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
