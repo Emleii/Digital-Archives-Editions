@@ -9,10 +9,16 @@
             <title>The Criminal Mind: This Boy Killed Eleven</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>The archival materials within this document were used with the permission of the materials’ owner, the Bennett Martin Public Library. The materials are not for distribution and/or reproduction.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Newsweek, Oct 10, 1960, p. 71-72</p>
+            <p>Newsweek, Oct 10, 1960, p. 71-72</p>		 
+            <bibl></bibl>
+               <msDesc>
+               	  <msIdentifier>
+                	  <repository>Bennett Martin Public Library</repository>
+                  </msIdentifier>
+               </msDesc>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
