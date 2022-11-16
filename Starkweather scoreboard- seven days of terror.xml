@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Starkweather scoreboard: seven days of terror</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Long Beach Independent, March 15, 1959, p.134</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <figure>
+            <pb facs="SC_23.jpg"/>
+            <figDesc>Image of a drawing done by Starkweather depicting  a man running or in motion, to the left of the page. The man has slicked back hair, and an outfit reminiscent of a greaser. In his right hand he his holding what appears to be a notebook. </figDesc>
+            <caption>Starkweather drawing, made in prison cell, may be wishful thinking. His art work showed some talent, teachers say, although he never took lessons. His parents urged him to attend art school. Starkweather says now he wishes he had studied art but his real ambition was to run a chicken farm.</caption>
+         </figure>
+         <p></p>
+         </body>
+   </text>
+</TEI>
