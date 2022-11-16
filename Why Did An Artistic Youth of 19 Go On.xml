@@ -11,10 +11,16 @@ A Killing Rampage That Took 11 Lives?</title>
             <author>J. M. Reinhardt</author>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>This document was retrieved from NewspaperArchive.com. The materials are not for distribution and/or reproduction.</p>
          </publicationStmt>
          <sourceDesc>
             <p>Washington Star, Jun 8th, 1958</p>
+	      <bibl></bibl>
+		<msDesc>
+	  	    <msIdentifier>
+			<repository>NewspaperArchive.com</repository>
+	    	    </msIdentifier>
+	        </msDesc>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
