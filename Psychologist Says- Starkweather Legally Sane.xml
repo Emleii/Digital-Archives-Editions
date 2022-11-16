@@ -9,10 +9,16 @@
             <title>Psychologist Says: Starkweather Legally Sane</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>The archival materials within this document were used with the permission of the materials’ owner, the Bennett Martin Public Library. The materials are not for distribution and/or reproduction.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Unknown Newspaper, May 21, 1958</p>
+            <p>Unknown Newspaper, May 21, 1958</p>		 
+            <bibl></bibl>
+               <msDesc>
+               	  <msIdentifier>
+                	  <repository>Bennett Martin Public Library</repository>
+                  </msIdentifier>
+               </msDesc>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
