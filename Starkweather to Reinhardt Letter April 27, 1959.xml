@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Charles Starkweather to J. M. Reinhardt Letter, 27 April 27 1959</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>The archival materials within this document were used with the permission of the materials’ owner, the University of Nebraska–Lincoln Libraries Archives &#38; Special Collections. The materials are not for distribution and/or reproduction.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+		<msDesc>
+	  	    <msIdentifier>
+			<repository>University of Nebraska–Lincoln Libraries Archives &#38; Special Collections</repository>
+			<collection>James M. Reinhardt, Papers</collection>
+			<idno>Archives RG 12-22-10</idno>
+	    	    </msIdentifier>
+	        </msDesc>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+
+        <opener>
+            <name>Charles Starkweather</name>
+            <address>
+                <addrLine>Box 111 &#8211; #20396</addrLine>
+             <addrLine>Lincoln, Nebraska</addrLine>
+            </address>
+            <dateline><date when="1959-04-27"></date>April 27, 1959</dateline>
+            <salute>Dear Mr. Reinhardt:</salute>
+        </opener>
+
+        <p>I appreciate the fact that you have paid attention to my family and myself in the past but that does not give you an excuse for not returning my manuscript.</p>
+        <p>On Feb. 7, 1959 you made a <hi style="red">RELEASE</hi> with my family releasing you from any previous agreements, also that release specified very clearly that you had no further interest or jurisdiction containing to that of my three chapters of my manuscripts which is now in your possession. You have informed us perviously [sic] that you had two typed, word for word copies made which should be sufficient to you, and which i nor the family have not disapprove of, but the release also clearly specified that you have no more need for my manuscript, and my family and i can not under&#8211;stand why you well[sic] not return the original script as you promised to do so at the close of the "Parade Magazin" publication on March 15, 1959. I wrote you a letter a few weeks before the Parade made these publication, stating that my desire was to have the manuscript return. And in reply, you told my family that you didn't have to return it until <hi style="red">(</hi>30 days.<hi style="red">)</hi>. i assure you Mr. Reinhardt them 30 days have lapsed quite abit. I have quite abit of doubt in your character at this time. You have insisted to my family and myself several times that you're an honorable, trustworthy and a true&#8211;to&#8211;your&#8211;word person, but in my mind, there's doubt, but i insist on proof that you are what you say you are by the immediate return of my entire three chapters of my manuscript to me at this Nebraska State Penitentiary.</p>
+
+        <closer>
+            <salute>Respectfully yours</salute>
+            <signed>Charles Starkweather</signed>
+        </closer>
+
+        <note><!--Reinhardt's writing-->I went to see Charles and explained that the m.s. was my copied-phototake - and would be returned to him (fo/a) &#38; was returned promptly(?)</note>
+      </body>
+  </text>
+</TEI>
+
