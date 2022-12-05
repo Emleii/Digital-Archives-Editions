@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Criminal Mind: This Boy Killed Eleven</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Newsweek, Oct 10, 1960, p. 71-72</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <figure>
+            <pb facs="SC_21.jpg"/>
+            <figDesc>Image of a drawing done by Starkweather depicting two figures, one turned away with a gun in hand and the other bent over as if it had just been shot. A gun peeks out at the bottom of a page pointed towards the second figure, gun still smoking. Alongside this image is a headshot of Starkweather himself, wearing a suit and tie and glasses. </figDesc>
+            <caption>Gunfire: Slayer Starkweather's chilling self-portrait</caption>
+        </figure>
+         <p>His fellow school kids used to call him "Bantam Red Head" when he longed to be "Dead Eye Charlies." He walked with a swagger that gave his short bowed legs an exaggerated curve. His head hung low; he kept his eyes on the ground. He had no money, few friends, no regular job.</p>
+        <p>On Dec. 1 1957, this 19-year old boy, Charles Starkweather of Lincoln, Neb., killed Robert Colvert, a gas-station attendant. Fifty days later, Starkweather and his 14-year-old girl friend, Caril Ann Fugate, set out on a murderous trail from Lincoln to Douglas, Wyo., that lasted eight days and left ten other persons dead. For his shoking crimes, Starkweather was executed on June 25, 1959. Caril Fugate was sentenced to life in the Nebraska Women's Reformatory.</p>
+        <p>In the past three years, psychiatrists and crime experts have tried to probe the secrets beneath Starkweather's behavior. The latest is Dr. James Melvin Reinhardt, criminology professor at the University of Nebraska, who spet 30 hours interviewing Starkweather in the penitentiary before and after his trial. His book, published last week, "The Murderous Trail of Charles Starkweather," (Charles C. Thomas. $5.75), is the most perceptive report on the strange nature of this young chain-killer.</p>
+        <p>"Charles Starkweather was no ordinary criminal," writes Dr. Reinhardt. "He did not inherit the murderous pattern that cast a horrible shadow over his own family, and those of his innocent victims. He belonged to no hoodlum gangs: he was not a sex maniac, he had no court record. Yet before he was 20, he had murdered eleven people."</p>
+        <p>The youth's troubles began on his first day at school, the criminologist reports. In Starkweather's own words: "The kids picked on me . . . they made fun of my bowed legs and my sppeck [he stammered] . . . This brought on a bad mood. I would just sit motionless, in one place, in a gloomy manner. I built up a hatred as hard as iron."</p>
+        <p>When Starkweather quit school on finishing ninth grade, "his sickening discontent had spread," writes Dr. Reinhardt. "His ego was defeated and empty; he imagined himself rejected by society. Life was worthless."</p>
+        <p>Apparently it never occurred to the forlorn lad that " he might attain position and power by honest toil." He showed artistic talent, Reinhardt writes. "But only while awaiting executions, did he work on his drawings" (see picture).</p>
+        <p>Fantasy Fire: Young Starkweather had one real talent, the criminologist points out. He could use a gun. Here was his ego's answer to his gnawing sense of failure. "I love guns," he told Reinhardt. "They give me a feeling of power that nothing else can match."</p>
+        <p>When he first began to play with a gun, Charles said, he had no intention of becoming a mass killer. Nevertheless, he spent hours re-enacting in his imagination killings he had seen in movies and on TV; he drew the gun against the reflection of himself in the mirror.</p>
+        <p>"All the time, Charles' imagination was oving him into a position of real murder. Imaginary people were prostrate at his feet to his intense satisfaction," says Dr. Reinhardt. "The time came when his inner ego demands could no longer be contained in a world of fantasy."</p>
+        <p>Then Caril Ann Fugate, a pert teenager, came into his life. "I felt better after being with Caril; I belonges to someone. I never met a 14-year-old girl who knowed so much; she could talk like a grown-up woman.</p>
+        <p>"We had to be together," the young killer told Dr. Reinhardt. "I wanted to take her far away." The need for money for the trip drove Starkweather to his first murder. The 50 days between the filling-station killing and the first day of the chain-murders was a restless, impoatient interlude. "Everything was closing in on Caril and me; she was having trouble at home. Everyone was against us; so we had to shoot our way out."</p>
+        <p>In the next week, driving a succession of stolen cars, the youthful murderer killed Caril's mother, stepfather, and baby half-sister, along with a farmer, a Lincoln businessman, his wife and their maid, a teen-age couple, and a salesman. When his gun was empty, and Wyoming police officers held Starkweather fast, he could only say: "These people got in our way. So I had to kill them all."</p>
+        <p>Was it Paranoia? Psychologists called Charles Starkweather legally and mentally sane. In his opinion, Dr. Reinhardt does not wholly agree. "His consuming hatred and morbid suspicions were not faked," he said. "Much of his habitual behavior in sessions with me, was definitely paranoiac."</p>
+        <p>During the interviews Reinhardt saw not a single sign of remorse in the young killer. "Why did this hppen to me?" he demanded. "Why couldn't I find the life I heard people talk about? I haven't eaten in a high-class restaurant; I never seen the New York Yankees play; I've never been to Los Angeles." He shrugged: "It doesn't matter . . . I guess I never knowed about happiness no how."</p>
+        <p>When arrested in Wyoming, Charles Starkweather wrote to his father: "Dad, I am not sorry for what I did, cause for the first time me and Caril had more fun . . . All we wanted to do was to get away together . . ."</p>
+      </body>
+  </text>
+</TEI>
