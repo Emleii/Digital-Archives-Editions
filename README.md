@@ -87,7 +87,7 @@
     </head>
     <body>
         <div id="div1"></div>
-        <button id="button1">Collection One</button>
+        <button id="button1"> <a onclick ="Collection One Edit.html"></a>Collection One</button>
         <button id="button2">Collection Two</button>
         <button id="button3">Biography</button>
         <button id= "button4"> Articles</button>
