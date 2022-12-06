@@ -87,7 +87,8 @@
     </head>
     <body>
         <div id="div1"></div>
-        <button id="button1" onclick="window.location.href ='Emleii/Starkweather_Drawings/Collection One/Collection One Edit.html'>Collection One</button> 
+
+        <button id="button1"><li><a class="active" href="Emleii/Starkweather_Drawings/Collection One/Collection One Edit.html">Home</a></li>Collection One</button> 
         <button id="button2">Collection Two</button>
         <button id="button3">Biography</button>
         <button id= "button4"> Articles</button>
