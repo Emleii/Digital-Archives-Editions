@@ -88,7 +88,7 @@
     <body>
         <div id="div1"></div>
 
-       <li><a href="https://github.dev/Emleii/Starkweather_Drawings/blob/main/Collection%20One/Collection%20One%20Edit.html"><button id="button1">Collection One</button></a></li>
+        <button id="button1" onclick="Collection One/Collection One Edit.html">Collection One</button>
         <button id="button2">Collection Two</button>
         <button id="button3">Biography</button>
         <button id= "button4"> Articles</button>
