@@ -5,11 +5,11 @@
         <style>
            body{
            background-color: #faf0e6;
-           font-family: "Georgia", Times, serif;
+           font-family: "Times New Roman", Times, serif;
            margin-right: 50px;
             margin-left: 50px;}    
             
-           h2{ font-family: "Georgia", Times, serif;
+           h2{ font-family: "Times New Roman", Times, serif;
             color: #5C4033;}
            
            img {
@@ -28,10 +28,10 @@
             color: #5C4033;
             margin: 4px 2px;
             transition-duration: 0.4s;
-            font-family: "Georgia", Times, serif;}
+            font-family: "Times New Roman", Times, serif;}
             
             #h1
-            {font-family: "Georgia", Times, serif;
+            {font-family: "Times New Roman", Times, serif;
             color: #5C4033;
             text-align: center;
             font-size: 50px;}
@@ -59,17 +59,69 @@
                       height: 650px;
                       }
             
+            body {  
+                padding-top: 120px;
+                margin-right: 100px;
+                margin-left: 100px;  }
+            @media (max-width: 979px) {
+                body {
+                    padding-top: 0px;
+                    }
+                }
+            
+            div.navbar-fixed-top {
+            overflow: hidden;
+            background-color: #5c0002;
+            position: fixed;
+            left: 0px;
+            display: block;
+            top: 0;
+            width: 100%;
+            font-family: Trebuchet MS;
+            height: 10.5rem;
+            margin-left: 0rem;
+            margin-right: 0rem;
+            display: inline;            
+            }
+
+            div.container {
+            width: 100%
+            margin-left: 0rem;
+            margin-right: 0em;
+            }
+
+            div.logo {
+            width: 100%
+            }
+
+            header {
+            height: 100px
+            }
+
+            img.center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            }
+            
         </style>       
     </head>
     <body>
-        <div id="div1"></div>
+        <div class="navbar-fixed-top">
+            <div class="container">
+                <div class="logo">
+                        <img src="header2.png" id="header" class="center"/>                    
+                </div> 
+            </div>
         
+       
         <a href="Title Page Edit.html" class="astuff">Home</a>
         <a href="Biography Page.html" class="astuff">Biography</a>
         <a href="Collection One Edit.html" class="astuff">Collection One</a>
         <a href="Collection Two Edit.html" class="astuff">Collection Two</a>
         <a href="newspaper_page.xhtml" class="astuff">Articles</a>
         <a href="About.html" class="astuff">About</a>
+        </div>
         
         <div id="div2"></div>
         <h1 id="h1">Starkweather Drawings</h1>
