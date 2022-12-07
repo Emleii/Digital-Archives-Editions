@@ -37,142 +37,37 @@
             
            #photo1 {   
                       height: 700px; 
-                      float:left;
-                      margin: 0px 20px 20px 0px;
+                      margin-left: auto;
+                      margin-right: auto;
                       }
                       
             #photo2 { 
                       width: 450px;
-                      float:left;
-                      margin: 0px 20px 20px 0px;
+                      margin-left: auto;
+                      margin-right: auto;
                       }
                       
             #photo3 {  
                       height: 620px; 
-                      float:left;
-                      margin: 0px 20px 20px 0px;}
+                      margin-left: auto;
+                      margin-right: auto;}
                       
              #photo4 {   
                       width: 450px; 
-                      float:left;
-                      margin: 0px 20px 20px 0px;}
+                      margin-left: auto;
+                      margin-right: auto;}
 
               #photo5 {  
                       width: 450px; 
-                      float:left;
-                      margin: 0px 20px 0px 0px;}
+                      margin-left: auto;
+                      margin-right: auto;}
 
             section {clear: left;
                     }
                       
             editor_note {italics
                         }            
-
-            #t1right {
-            text-align:right;}
             
-            #t2right {
-            text-align:right;}
-            
-            #t3right {
-            text-align:right;}
-            
-            #t4right {
-            text-align:right;}
-            
-            #t5right {
-            text-align:right;}
-            
-            #t6right {
-            text-align:right;}
-            
-            #t7right {
-            text-align:right;}
-            
-            #t8right {
-            text-align:right;}
-            
-            
-            #t9right {
-            text-align:right;}
-            
-            #t10right {
-            text-align:right;}
-            
-            #t11right {
-            text-align:right;}
-            
-            #t12right {
-            text-align:right;}
-            
-            #t13right {
-            text-align:right;}
-            
-            #t14right {
-            text-align:right;}
-            
-            #t15right {
-            text-align:right;}
-            
-            #t16right {
-            text-align:right;}
-            
-            #t17right {
-            text-align:right;}
-            
-            #t18right {
-            text-align:right;}
-            
-            #t19right {
-            text-align:right;}
-            
-            #t20right {
-            text-align:right;}
-            
-            #t21right {
-            text-align:right;}
-            
-            #t22right {
-            text-align:right;}
-            
-            #t23right {
-            text-align:right;}
-            
-            #t24right {
-            text-align:right;}
-            
-            #t25right {
-            text-align:right;}
-            
-            #t26right {
-            text-align:right;}
-            
-            #t27right {
-            text-align:right;}
-            
-            #leftptr1 {
-            text-align:right;}
-            
-            #leftptr2 {
-            text-align:right;}
-            
-            #leftptr3 {
-            text-align:right;}
-            
-            #leftptr4 {
-            text-align:right;}
-            
-            #leftptr5 {
-            text-align:right;}
-            
-            #leftptr6 {
-            text-align:right;}
-            
-            #leftptr7 {
-            text-align:right;}
-            
-            #leftptr8 {
-            text-align:right;}
             
             body {  
             margin-right: 100px;
@@ -193,6 +88,30 @@
             margin: 4px 2px;
             transition-duration: 0.4s;
             font-family: "Georgia", Times, serif;}
+                
+            details {
+            user-select: none;
+            }
+
+            details>summary span.icon {
+            width: 24px;
+            height: 24px;
+            transition: all 0.3s;
+             margin-left: auto;
+            }
+
+            details[open] summary span.icon {
+            transform: rotate(180deg);
+            }
+
+            summary {
+            display: flex;
+            cursor: pointer;
+            }
+
+            summary::-webkit-details-marker {
+            display: none;
+            }
             
             </style>
         
@@ -216,6 +135,11 @@
         <h5>Psychologist Says: Starkweather Legally Sane</h5>
                <h6>Unknown Newspaper, May 21, 1958</h6>
         <img src="psychologist_says.jpg" id="photo1"/>
+               <details>
+                <summary>
+                     Transcription 
+                <span class="icon">^</span>
+                </summary>
         <p>SKETCHES &#8212; These are sketches Starkweather drew of his attorneys, T. Clement Gaughan (left) and William Matschullat. Actual photographs of the 2 appear under the sketches. Charles says he dislikes both attorneys.</p>
         <h4><u>Psychologist Says</u>
         <br></br>
@@ -236,12 +160,18 @@
         <p>On cross examination by Defense Atty. T. Clement Gaughan, Munson said he believes that Starkweather's claims he does not trust people are a "crust to hide his feelings."</p>
         <p>Gaughan questioned the psychologist at length in an attempt to get Munson to say that it is not sane for 1 man to kill a number of persons.</p>
         <p>Munson replied that "it can be sane under certain circumstances" although "I've never heard of anybody killing that many people.</p>
+               </details>
        </div>
 
        <div>
         <h5>Why Did An Artistic Youth of 19 Go On a Killing Rampage That Took 11 Lives?</h5>
                <h6>Washington Star, Jun 8th, 1958</h6>
         <img src="why_did_an_artisitc_youth.jpg" id="photo2"/>
+               <details>
+                <summary>
+                     Transcription 
+                <span class="icon">^</span>
+                </summary>
         <h4>Why Did An Artistic Youth of 19 Go On a Killing Rampage That Took 11 Lives?</h4>
       <div class="editor_note">
         <p><i>EDITOR’S NOTE &#8212; What drove convicted killer Charles Starkweather to one of the bloodiest forays in recent criminal history? A widely known author and lecturer on criminal behavior, Dr. James Melvin Reinhardt, professor of criminology at the University of Nebraska, sums up the case after interviewing the youth, his family, friends and teachers, and after watching him in court.</i></p>
@@ -341,13 +271,18 @@
         <p>His only plaint after the sentence was that his attorneys had “tried me for all those murders instead of the one I was charged with.”</p>
         <p>He said that he thought he should have a new trial, but “I would be glad to go to the chair tomorrow if I could have Caril on my lap."</p>
     </div>
-
+               </details>
        </div>
 
        <div>
         <h5>Starkweather Scoreboard: Seven Days of Terror</h5>
                <h6>Long Beach Independent, March 15, 1959, p.134</h6>
         <img src="starkweather_scoreboard.jpg" id="photo3"/> 
+               <details>
+                <summary>
+                     Transcription 
+                <span class="icon">^</span>
+                </summary>
         <p><i>Starkweather drawing, made in prison cell, may be wishful thinking. His art work showed some talent, teachers say, although he never took lessons. His parents urged him to attend art school. Starkweather says now he wishes he had studied art but his real ambition was to run a chicken farm.</i></p>  
         <h4>Starkweather scoreboard: seven days of terror</h4> 
         <p>In seven days last year, Charles Starkweather, 19, and slim Caril Ann Fugate, 14, left a bloody trail from Lincoln, Neb., to Casper, Wyo. When they finally were captured, the box score stood: 10 dead (six shootings, two stabbings, one beating and one combination stabbing-shooting).</p>    
@@ -357,12 +292,18 @@
         <p>On the run again, Caril and Charles reached Douglas, Wyo. Shoe salesman Merle Collison, shot as he slept in his car, was the last victim. Moments later, Charles and Caril were captured.</p>
         <p>Both Charles and Caril were tried for the murder of Jensen. Caril said she was a hostage, had no part in the murders. She was convicted, sentenced to life, now is appealing. Charles, sentenced to die, has appealed twice unsuccessfully.</p>
         <p>Today, Starkweather sits in an 8-by-12 death-row cell in Nebraska State Penitentiary. Warden Joseph Bovey and Deputy John Greenholtz post guards around the clock. The cell is sparsely furnished; even his glasses are taken away at night. He leaves only for visiting hours, reads a good deal, sketches, talks to the chaplain, read the Bible. Scheduled to die March 27, his sole hope now is a last-ditch reprieve.</p>
+               </details>
        </div>
       
        <div>
         <h5>The Criminal Mind: This Boy Killed Eleven</h5>
                <h6>Newsweek, Oct 10, 1960, p. 71-72</h6>
         <img src="criminal_mind_drawing.jpg" id="photo5"/>
+               <details>
+                <summary>
+                     Transcription 
+                <span class="icon">^</span>
+                </summary>
         <p>Gunfire: Slayer Starkweather's chilling self-portrait</p>
         <h4>THE CRIMINAL MIND:
         <br></br>
@@ -388,7 +329,7 @@
 
         
 
-        <br></br>     
+        </details    
        </div>
 
     </body>
